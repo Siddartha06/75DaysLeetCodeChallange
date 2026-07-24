@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 | [1544-make-the-string-great](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1544-make-the-string-great) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
