@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
