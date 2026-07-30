@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
