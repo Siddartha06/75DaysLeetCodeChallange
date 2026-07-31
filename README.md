@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 ## Sorting
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
