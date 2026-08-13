@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
