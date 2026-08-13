@@ -1,18 +1,18 @@
 class Solution {
     public boolean findSubarrays(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        for (int i = 0; i < nums.length - 1; i++) {
+            int left = i;
+            int right = i + 1;
+            int sum = nums[left] + nums[right];
 
-        int window_sum = nums[0] + nums[1];
-        set.add(window_sum);
+            while (right < nums.length - 1) {
+                left++;
+                right++;
 
-        for (int j = 1; j < nums.length - 1; j++) {
-            int current_sum = window_sum - nums[j - 1] + nums[j + 1];
-
-            if (set.contains(current_sum)) {
-                return true;
+                if (nums[left] + nums[right] == sum) {
+                    return true;
+                }
             }
-            set.add(current_sum);
-            window_sum = current_sum;
         }
         return false;
     }
