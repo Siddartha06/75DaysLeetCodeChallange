@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Monotonic Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
