@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Design
 |  |
 | ------- |
