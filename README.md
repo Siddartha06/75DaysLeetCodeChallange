@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
