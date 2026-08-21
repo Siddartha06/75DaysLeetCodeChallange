@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
