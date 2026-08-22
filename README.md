@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 | [1544-make-the-string-great](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
