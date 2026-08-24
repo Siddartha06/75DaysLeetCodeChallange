@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
