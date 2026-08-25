@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 | [1544-make-the-string-great](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
