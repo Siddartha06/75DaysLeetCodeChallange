@@ -13,24 +13,21 @@ class Solution {
         while (head != null && head.val == val) {
             head = head.next;
         }
-         if (head == null) {
+        if (head == null) {
             return null;
         }
-
         ListNode temp = head;
-        ListNode curr = temp.next;
-        while (curr!= null) {
-            if(curr.val == val){
-                temp.next = curr.next;
-                curr= curr.next;
-            }
+        ListNode current = head.next;
+        while (current != null) {
+            if (current.val == val) {
+                temp.next = current.next;
+                current = current.next;
+            } 
             else {
-            temp = curr;
-            curr = curr.next;
-
-        }
+                temp = current;
+                current = current.next;
+            }
         }
         return head;
-        
     }
 }
