@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
