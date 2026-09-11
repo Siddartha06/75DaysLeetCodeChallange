@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0203-remove-linked-list-elements) |
