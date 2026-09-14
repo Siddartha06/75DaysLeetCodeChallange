@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Monotonic Stack
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0867-transpose-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
