@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
