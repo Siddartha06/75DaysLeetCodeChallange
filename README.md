@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -70,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -190,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
