@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -212,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
