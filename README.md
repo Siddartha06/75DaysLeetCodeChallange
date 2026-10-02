@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1652-defuse-the-bomb) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/2073-time-needed-to-buy-tickets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/1652-defuse-the-bomb) |
 ## Dynamic Programming
 |  |
 | ------- |
