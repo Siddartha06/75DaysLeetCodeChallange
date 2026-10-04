@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
@@ -225,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddartha06/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
